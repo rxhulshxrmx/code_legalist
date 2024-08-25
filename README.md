@@ -1,2 +1,2 @@
-# Hackathon Project - [Code Legalist](https://code-legalist.vercel.app/)
+# SIH Hackathon Project - [Code Legalist](https://code-legalist.vercel.app/)
 
